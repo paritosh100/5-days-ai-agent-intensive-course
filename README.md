@@ -5,6 +5,7 @@ This workspace tracks hands-on material from the Kaggle 5-Day AI Agents course. 
 ### Folder Guide
 - `day 1/` — Prompt-to-action workflows, agent architecture patterns, and the Day 1 reference paper.
 - `day 2/` — Tool-enabled agents, Model Context Protocol demos, and the Day 2 reference paper.
+- `day 3/` — Context engineering tactics, multi-turn agent session workflows, and memory persistence experiments.
 
 Each day includes a dedicated `README.md` with setup notes that expand on the instructions below.
 
